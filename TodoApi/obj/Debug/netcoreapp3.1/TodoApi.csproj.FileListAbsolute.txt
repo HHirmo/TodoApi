@@ -144,3 +144,9 @@ C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp
 C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
 C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\hirmo.DESKTOP-LPIHON7\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
